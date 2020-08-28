@@ -1,4 +1,8 @@
-### Hi there 👋
+### Mike Dillon
+
+- 💬 Ask me about bikes 🚴🏼‍♂️
+- 📫 How to reach me: mike@appropriate.io
+- 😄 Pronouns: he/him
 
 <!--
 **md5/md5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
